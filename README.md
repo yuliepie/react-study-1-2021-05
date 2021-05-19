@@ -4,13 +4,9 @@
 
 > 리액트의 모든 개념을 5주 (10회) 동안 깊게 다뤄보고, 배운 내용을 활용하여 토이 프로젝트도 만들어요 ~
 
-## 리더 & 작성자
-
-> 윤상
-
 ## 토이 프로젝트 깃 허브 리포
 
-| A la galarie (갤러리에서)
+| A la galerie (갤러리에서)
     나쁜 코로나 때문에 가고싶던 갤러리 산책 대신.. 리액트 갤러리 산책 😭!
     1시간 마다 바뀌는 3장의 명화들을 감상해봅시다~
 
@@ -53,7 +49,7 @@
 
 [dashboard]: https://www.notion.so/2021-05-ae9cee780fc249479e93d591b57c08ae
 
-[toy-project-ys]: https://github.com/olcw78/a-la-galarie/
+[toy-project-ys]: https://github.com/olcw78/a-la-galerie/
 <!-- [toy-project-yl]: https:// -->
 <!-- [toy-project-gr]: https:// -->
 <!-- [toy-project-mk]: https:// -->
