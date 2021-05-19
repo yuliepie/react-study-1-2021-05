@@ -61,7 +61,7 @@
 [ch6]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/06.%20state%20%26%20useState.md
 [ch7-1]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/07.Form%20%26%20inputState.md
 [ch7-2]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/07.Form%26input.md
-[ch8]: https://github.com/
+[ch8]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/08.%20hooks%3F.md
 [ch9-1]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/09-1.list%20%26%20key.md
 [ch9-2]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/09-2.ArrayRendering.md
 [ch10]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/10.%20useEffect.md
