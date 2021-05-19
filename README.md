@@ -10,7 +10,11 @@
 
 ## 토이 프로젝트 깃 허브 리포
 
--   윤상: 링크
+| A la galarie (갤러리에서)
+    나쁜 코로나 때문에 가고싶던 갤러리 산책 대신.. 리액트 갤러리 산책 😭!
+    1시간 마다 바뀌는 3장의 명화들을 감상해봅시다~
+
+-   윤상: [링크][toy-project-ys]
 -   율리: 링크
 -   가린: 링크
 -   민국: 링크
@@ -44,9 +48,12 @@
     -   useReducer (상태 업데이트 로직 분리) (재홍)
     -   custom hooks (로직 분리) (윤상) <br/><br />
 
+-   4회차 (05.23 일 19:00)
+    -   토이 프로젝트 시작 (윤상) 링크
+
 [dashboard]: https://www.notion.so/2021-05-ae9cee780fc249479e93d591b57c08ae
 
-<!-- [toy-project-ys]: https:// -->
+[toy-project-ys]: https://github.com/olcw78/a-la-galarie/
 <!-- [toy-project-yl]: https:// -->
 <!-- [toy-project-gr]: https:// -->
 <!-- [toy-project-mk]: https:// -->
