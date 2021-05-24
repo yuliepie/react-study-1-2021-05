@@ -38,11 +38,11 @@
 
 -   3회차 (05.20 목 19:00)
 
-    -   useMemo (연산한 값 재사용) (가린)(율리)
-    -   useCallback (함수 재사용) (민국)
-    -   React.memo (컴포넌트 리렌더링 방지) (보경)
-    -   useReducer (상태 업데이트 로직 분리) (재홍)
-    -   custom hooks (로직 분리) (윤상) <br/><br />
+    -   [useMemo (연산한 값 재사용)][ch12] (가린)(율리)
+    -   [useCallback (함수 재사용)][ch13] (민국)
+    -   [React.memo (컴포넌트 리렌더링 방지)][ch14] (보경)
+    -   [useReducer (상태 업데이트 로직 분리)][ch15] (재홍)
+    -   [custom hooks (로직 분리) (윤상)][ch16] <br/><br />
 
 -   4회차 (05.23 일 19:00)
     -   토이 프로젝트 시작 (윤상) 링크
@@ -70,3 +70,8 @@
 [ch9-2]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/09-2.ArrayRendering.md
 [ch10]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/10.%20useEffect.md
 [ch11]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/11.%20useRef.md
+[ch12]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/12.%20useMemo.md
+[ch13]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/13.useCallback.md
+[ch14]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/14.React.memo.md
+[ch15]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/15.useReducer.md
+[ch16]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/16.%20custom%20hooks.md
