@@ -49,8 +49,8 @@
 
 -   5회차 (05.27 목 19:00)
     -   context API [(가린)][ch17-1][(율리)][ch17-2]
-    -   immer.js (불변성) (민국)[ch18]
-    -   class component (재홍)[ch19]
+    -   [immer.js (불변성)][ch18] (민국)
+    -   [class component][ch19] (재홍)
     -   component lifecycle [(보경)][ch20-1][(윤상)][ch20-2]
 
 -   6회차 (06.30 일 14:00)
