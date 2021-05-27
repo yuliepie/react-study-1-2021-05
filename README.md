@@ -44,8 +44,18 @@
     -   [useReducer (상태 업데이트 로직 분리)][ch15] (재홍)
     -   [custom hooks (로직 분리) (윤상)][ch16] <br/><br />
 
--   4회차 (05.23 일 19:00)
-    -   토이 프로젝트 시작 (윤상) 링크
+-   4회차 (05.23 일 14:00)
+    -   토이 프로젝트 시작
+
+-   5회차 (05.27 목 19:00)
+    -   context API [(가린)][ch17-1][(율리)][ch17-2]
+    -   immer.js (불변성) (민국)[ch18]
+    -   class component (재홍)[ch19]
+    -   component lifecycle [(보경)][ch20-1][(윤상)][ch20-2]
+
+-   6회차 (06.30 일 14:00)
+    -
+
 
 [dashboard]: https://www.notion.so/2021-05-ae9cee780fc249479e93d591b57c08ae
 
@@ -75,3 +85,9 @@
 [ch14]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/14.React.memo.md
 [ch15]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/15.useReducer.md
 [ch16]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/16.%20custom%20hooks.md
+[ch17-1]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/17-1.%20contextAPI.md
+[ch17-2]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/17-2.%20Context%20API.md
+[ch18]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/18.%20Using%20Immer.md
+[ch19]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/19.%20class_type_component.md
+[ch20-1]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/20-1.%20life%20cycle.md
+[ch20-2]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/20-2.%20component%20lifecycle.md
