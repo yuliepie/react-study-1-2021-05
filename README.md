@@ -95,9 +95,9 @@
 [ch20-1]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/20-1.%20life%20cycle.md
 [ch20-2]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/20-2.%20component%20lifecycle.md
 
-<!-- [ch21-1]:  -->
+[ch21-1]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/21-1.%20Error%20Handling.md
 <!-- [ch21-2]: -->
-<!-- [ch22-1]: -->
-<!-- [ch22-2]:  -->
-<!-- [ch23]:  -->
-<!-- [ch24]:  -->
+[ch22-1]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/22-1.Composition%20%26%20styled-components.md
+[ch22-2]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/22-2.%20composition%20vs%20inheritance%20%26%20styled-components.md
+[ch23]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/23.%20Sass.md
+[ch24]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/24.CSS%20Module.md
