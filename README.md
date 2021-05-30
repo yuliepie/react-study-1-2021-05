@@ -11,10 +11,10 @@
     1시간 마다 바뀌는 3장의 명화들을 감상해봅시다~
 
 -   윤상: [링크][toy-project-ys]
--   율리: 링크
--   가린: 링크
--   민국: 링크
--   재홍: 링크
+-   율리: [링크][toy-project-yl]
+-   가린: [링크][toy-project-gr]
+-   민국: [링크][toy-project-mk]
+-   재홍: [링크][toy-project-jh]
 -   보경: 링크
 
 ## 스터디 목차
@@ -53,20 +53,25 @@
     -   [class component][ch19] (재홍)
     -   component lifecycle [(보경)][ch20-1][(윤상)][ch20-2] <br/><br />
 
--   6회차 (06.30 일 14:00)
+-   6회차 (05.30 일 14:00)
     -   componentDidCatch() 로 Error Handling 하기 / Sentry 연동 (velopert) [(율리)][ch21-1][(재홍)][ch21-2]
     -   합성 vs 상속 (official doc) / styled-component [(윤상)][ch22-1][(보경)][ch22-2]
     -   [SASS][ch23] (민국)
     -   [CSS-Module][ch24] (가린) <br/><br />
 
+-   7회차 (06.04 목 19:00)
+    -   비동기 프로그래밍 in JS (callback, promise, async/await) + script(async/defer) + unblocking/blocking code (윤상)
+    -   API 연동의 기본 + useReducer 로 요청 상태 관리하기, [axios의 interceptor][axios-interceptor] (민국)(율리)
+    -   useAsync() custom hooks 만들기 + react-async로 요청 상태 관리하기 (윤상)(재홍)
+    -   context API 사용하기 + [웹 역사에 대해서 조사하기 (SPA, Single Page Appliacation 중심으로)][web-history] (가린)(보경)
 
 [dashboard]: https://www.notion.so/2021-05-ae9cee780fc249479e93d591b57c08ae
 
 [toy-project-ys]: https://github.com/olcw78/a-la-galerie/
-<!-- [toy-project-yl]: https:// -->
-<!-- [toy-project-gr]: https:// -->
-<!-- [toy-project-mk]: https:// -->
-<!-- [toy-project-jh]: https:// -->
+[toy-project-yl]: https://github.com/yuliepie/a-la-galerie
+[toy-project-gr]: https://github.com/gareen9342/reactstudy-a-la-galerie
+[toy-project-mk]: https://github.com/MinGookK/a-la-galerie
+[toy-project-jh]: https://github.com/JaehongGregPark/a-la-galerie-master
 <!-- [toy-project-bk]: https:// -->
 
 [ch1-1]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/01-1.%20React%20Intro.md
@@ -101,3 +106,6 @@
 [ch22-2]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/22-2.%20composition%20vs%20inheritance%20%26%20styled-components.md
 [ch23]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/23.%20Sass.md
 [ch24]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/24.CSS%20Module.md
+
+[axios-interceptor]: https://flyingsquirrel.medium.com/api-fetch-retry%EB%A1%9C%EC%A7%81-%EC%9E%91%EC%84%B1%ED%95%B4%EB%B3%B4%EA%B8%B0-with-axios-5cb81e6345ad
+[web-history]: https://www.youtube.com/watch?v=iZ9csAfU5Os&t=3s
