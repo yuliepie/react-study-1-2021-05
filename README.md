@@ -63,7 +63,13 @@
     -   비동기 프로그래밍 in JS (callback, promise, async/await) + script(async/defer) + unblocking/blocking code (윤상)
     -   API 연동의 기본 + useReducer 로 요청 상태 관리하기, [axios의 interceptor][axios-interceptor] (민국)(율리)
     -   useAsync() custom hooks 만들기 + react-async로 요청 상태 관리하기 (윤상)(재홍)
-    -   context API 사용하기 + [웹 역사에 대해서 조사하기 (SPA, Single Page Appliacation 중심으로)][web-history] (가린)(보경)
+    -   context API 사용하기 + [웹 역사에 대해서 조사하기 (SPA, Single Page Appliacation 중심으로)][web-history] (가린)(보경) <br/><br />
+
+-   8회차 (06.06 일 14:00)
+    - 리액터 라우터 기본 + 파라미터 & 쿼리 + 서브 라우트 (보경)(가린)
+    - 리액터 라우터 부가기능 + React.Redirect + useHistory() hook (율리)(민국)
+    - code splitting with React.lazy, React.Suspense (윤상)(재홍)
+    - normalize hierarchy with React.Portal (윤상)<br/><br />
 
 [dashboard]: https://www.notion.so/2021-05-ae9cee780fc249479e93d591b57c08ae
 
