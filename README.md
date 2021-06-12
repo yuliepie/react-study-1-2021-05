@@ -60,16 +60,29 @@
     -   [CSS-Module][ch24] (가린) <br/><br />
 
 -   7회차 (06.04 목 19:00)
-    -   비동기 프로그래밍 in JS (callback, promise, async/await) + script(async/defer) + unblocking/blocking code (윤상)
-    -   API 연동의 기본 + useReducer 로 요청 상태 관리하기, [axios의 interceptor][axios-interceptor] (민국)(율리)
-    -   useAsync() custom hooks 만들기 + react-async로 요청 상태 관리하기 (윤상)(재홍)
-    -   context API 사용하기 + [웹 역사에 대해서 조사하기 (SPA, Single Page Appliacation 중심으로)][web-history] (가린)(보경) <br/><br />
+    -   [비동기 프로그래밍 in JS (callback, promise, async/await) + unblocking/blocking code][ch25] (윤상)
+    -   API 연동의 기본 + useReducer 로 요청 상태 관리하기, [axios의 interceptor][axios-interceptor] [(민국)][ch26-1][(율리)][ch26-2]
+    -   useAsync() custom hooks 만들기 + react-async로 요청 상태 관리하기 [(윤상)][ch27-1][(재홍)][ch27-2]
+    -   context API 사용하기 + [웹 역사에 대해서 조사하기 (SPA, Single Page Appliacation 중심으로)][web-history] [(가린)][ch28-1][(보경)][ch28-2] <br/><br />
 
 -   8회차 (06.06 일 14:00)
-    - 리액터 라우터 기본 + 파라미터 & 쿼리 + 서브 라우트 (보경)(가린)
-    - 리액터 라우터 부가기능 + React.Redirect + useHistory() hook (율리)(민국)
-    - code splitting with React.lazy, React.Suspense (윤상)(재홍)
-    - normalize hierarchy with React.Portal (윤상)<br/><br />
+    - 리액터 라우터 기본 + 파라미터 & 쿼리 + 서브 라우트 [(보경)][ch29-1][(가린)][ch29-2]
+    - 리액터 라우터 부가기능 + React.Redirect + useHistory() hook [(율리)][ch30-2][(민국)][ch30-1]
+    - Portals & code splitting with React.lazy, React.Suspense [(윤상)][ch31-1][(재홍)][ch31-2] <br/><br />    
+
+-   9회차 (06.10 목 19:00)
+    - [Constate][constate] & [Recoil][recoil] ( intro / basic tut / guides )
+    - MVC, MVP, MVVM, FLUX & [Redux 이해하기 5개][redux-5]
+    - 리덕스 키워드 숙지 / 3가지 규칙 / 준비하기 / 모듈만들기 / 카운터 구현하기 <br/><br/>
+
+-   10회차 (06.13 일 14:00)
+    - 개발자 도구 / useSelector 최적화 / connect 함수 / 정리
+    - Redux Middleware 준비 / 이해 / redux-logger / redux-thunk + promise / api 재로딩 문제 해결
+    - redux-thunk + router / json-server / cors & webpack devserver proxy / redux-saga <br/><br/>
+
+-   끝 회고!
+
+
 
 [dashboard]: https://www.notion.so/2021-05-ae9cee780fc249479e93d591b57c08ae
 
@@ -107,11 +120,29 @@
 [ch20-2]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/20-2.%20component%20lifecycle.md
 
 [ch21-1]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/21-1.%20Error%20Handling.md
-<!-- [ch21-2]: -->
 [ch22-1]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/22-1.Composition%20%26%20styled-components.md
 [ch22-2]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/22-2.%20composition%20vs%20inheritance%20%26%20styled-components.md
 [ch23]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/23.%20Sass.md
 [ch24]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/24.CSS%20Module.md
 
+[ch25]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/25.%20asynchronous-vs-synchronous-%26-blocking-vs-unblocking-in-JS.md
+[ch26-1]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/26-1.%20API%20%EC%97%B0%EB%8F%99%EC%9D%98%20%EA%B8%B0%EB%B3%B8%20%2B%20useReducer%20%EB%A1%9C%20%EC%9A%94%EC%B2%AD%EC%83%81%ED%83%9C%20%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0%2B%20axios%20interceptor.md
+[ch26-2]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/26-2.%20API%20Calls.md
+[ch27-1]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/27-1.%20useAsync%20%EC%BB%A4%EC%8A%A4%ED%85%80%20%ED%9B%85%20%2B%20react-async.md
+[ch27-2]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/27-2.useAsync_Custum_Hook%26manage_request_state_using_react-async.md
+[ch28-1]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/28-1.APIFetchingWithContext%2C%EC%9B%B9%EC%97%AD%EC%82%AC.md
+[ch28-2]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/28-2.%20Context%20%26%20SPA.md
+
+[ch29-1]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/29-1.router%26parameter%26query.md
+[ch29-2]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/29-2.ReactRouter%2C%20parameter%2C%20query%2C%20sub%20Router.md
+[ch30-1]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/30-1.%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EB%9D%BC%EC%9A%B0%ED%84%B0%20%EB%B6%80%EA%B0%80%EA%B8%B0%EB%8A%A5%20%2B%20React.Redirect%20%2B%20useHistory()%20hook.md
+[ch30-2]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/30-2.%20React%20Router%20API.md
+[ch31-1]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/31-1.%20Portals%20%26%20code%20splitting.md
+[ch31-2]: https://github.com/Quickeely/react-study-1-2021-05/blob/master/31-2.ReactPortal%26CodeSplitting.md
+
 [axios-interceptor]: https://flyingsquirrel.medium.com/api-fetch-retry%EB%A1%9C%EC%A7%81-%EC%9E%91%EC%84%B1%ED%95%B4%EB%B3%B4%EA%B8%B0-with-axios-5cb81e6345ad
 [web-history]: https://www.youtube.com/watch?v=iZ9csAfU5Os&t=3s
+
+[constate]: https://github.com/diegohaz/constate
+[recoil]: https://recoiljs.org/docs/introduction/motivation
+[redux-5]: https://ko.redux.js.org/understanding/thinking-in-redux/motivation
